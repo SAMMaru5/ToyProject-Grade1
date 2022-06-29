@@ -1,3 +1,6 @@
 [submodule "sammaru"]
 	path = sammaru
 	url = https://github.com/nhyunaa/sammaru.git
+[submodule "Omok"]
+	path = Omok
+	url = https://github.com/2022-SAMMARU/Omok.git
