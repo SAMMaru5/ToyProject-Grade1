@@ -7,3 +7,6 @@
 [submodule "Five-in-a-row"]
 	path = Five-in-a-row
 	url = https://github.com/yijunghwan/Five-in-a-row.git
+[submodule "stock-1"]
+	path = stock-1
+	url = https://github.com/Hjun3/stock-1.git
